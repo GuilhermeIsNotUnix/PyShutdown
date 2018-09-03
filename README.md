@@ -6,4 +6,4 @@ PyShutdown é um simples script cross-plataform feito em Python 3 para agendar e
 
 ## Suporte
 
-Atualmente suporte para GNU/Linux (Terminal BASH) e Windows.
+Atualmente suporta GNU/Linux (Terminal BASH) e Windows.
